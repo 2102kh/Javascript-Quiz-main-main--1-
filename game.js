@@ -22,10 +22,10 @@ let questions = [
   },
 
   {
-    question: "What is the sweden currency?",
+    question: "Vad är den svenska valutan?",
     choice1: "Dollar",
     choice2: "Euro",
-    choice3: "Swedish Krona",
+    choice3: "Svenska krona",
     choice4: "Swedish Mark",
     answer: 3,
   },
