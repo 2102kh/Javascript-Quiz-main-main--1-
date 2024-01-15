@@ -13,11 +13,11 @@ const maximalQuestions = 4;
 
 let questions = [
   {
-    question: "What is the capital of Sweden ?",
+    question: "What is the capital of England?",
     choice1: "Oslo",
     choice2: "Stockholm",
     choice3: "Gothenburg",
-    choice4: "Malmoe",
+    choice4: "London",
     answer: 2,
   },
 
